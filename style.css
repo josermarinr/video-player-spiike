@@ -1,0 +1,18 @@
+.btn {
+    width: 40px;
+    height: 40px;
+    cursor: pointer;
+    transition: all .8s ease-in-out;
+}
+
+.follow {
+    background: url('./addFavoris.svg');
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.unfollow {
+    background: url('./favoris.svg');
+    background-repeat: no-repeat;
+    background-position: center;
+}
